@@ -30,7 +30,7 @@ Mempraktekan program pada Lab1 dan Lab2
 
 Pertemuan 6 Lab 1
 
-![2.png](/gambar/02.png)
+![2.png](/gambar/2.png)
 
 PENGGUNAAN END
 
