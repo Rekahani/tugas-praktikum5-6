@@ -1,4 +1,5 @@
 TUGAS PERTEMUAN 5 DAN 6 BESERTA PENJELASANNYA
+
 Nama	: Reka Hani Latifah Nurhasanah
 Nim	: 312010343
 Kelas	: TI.20.A2
